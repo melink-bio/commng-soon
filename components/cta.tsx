@@ -29,15 +29,21 @@ export default function CTA() {
 
       <motion.div variants={itemVariants}>
         <TextBlur
-          className="text-center text-3xl font-medium tracking-tighter sm:text-5xl"
-          text="A Simple Next.js Waitlist Template with Notion as CMS"
+          className="text-center text-3xl font-medium tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl"
+          text="Everything you need. In one, simple link in bio."
         />
       </motion.div>
 
       <motion.div variants={itemVariants}>
         <TextBlur
-          className="mx-auto max-w-[27rem] pt-1.5 text-center text-base text-zinc-300 sm:text-lg"
-          text="Join the waitlist to get early access of the product and recieve updates on the progress!"
+          className="mx-auto max-w-[27rem] pt-1.5 text-center text-base text-zinc-300 sm:text-lg md:text-xl lg:text-2xl"
+          text="Join open-source and affordable links in bio, play only for what you need and keep your data private."
+          duration={0.8}
+        />
+
+<TextBlur
+          className="mx-auto max-w-[27rem] pt-1.5 text-center text-base text-zinc-300 sm:text-lg md:text-xl lg:text-2xl"
+          text="Join open-source and affordable links in bio, play only for what you need and keep your data private."
           duration={0.8}
         />
       </motion.div>
