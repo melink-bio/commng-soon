@@ -14,11 +14,6 @@ The UI is built using a mix of shadcn/ui, Magic UI and Tailwind CSS.
 - **Vercel**: Deploy the app to Vercel with a single click.
 - **shadcn/ui**: Use shadcn/ui for building the UI components.
 
-## Why Notion?
-
-Notion is used everywhere nowadays. It's a great tool for managing content and it's free to use. But a lot of people don't know that they can use Notion as a CMS for their websites which stands for Content Management System. This template is a very basic implementation of using Notion as a CMS for a waitlist.
-
-However, You can extend it to use Notion for other types of content as well. Using Notion as a CMS is a great way to manage content without having to build a backend or a database. You can use Notion's API to fetch data from your Notion workspace and display it on your website.
 
 ## How to get started?
 
