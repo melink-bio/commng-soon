@@ -40,12 +40,6 @@ export default function CTA() {
           text="Join open-source and affordable links in bio, play only for what you need and keep your data private."
           duration={0.8}
         />
-
-<TextBlur
-          className="mx-auto max-w-[27rem] pt-1.5 text-center text-base text-zinc-300 sm:text-lg md:text-xl lg:text-2xl"
-          text="Join open-source and affordable links in bio, play only for what you need and keep your data private."
-          duration={0.8}
-        />
       </motion.div>
     </motion.div>
   );
